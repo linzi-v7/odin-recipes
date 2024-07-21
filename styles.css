@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(240, 255, 255);
+}
+
+#title {
+    background-color: rgb(230, 223, 214);
+    font-family: fantasy, sans-serif;
+    font-weight: 100;
+}
+
+.recipes-list {
+    background-color: rgb(240, 248, 255);
+    font-family: monospace, sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+}
